@@ -35,6 +35,6 @@ public class App2 {
         cart.getPriceList().add(stores);
 
         BigDecimal totalPrice = cart.totalPrice();
-        System.out.println("Total price: " + totalPrice + "TL");
+        System.out.println("Total price: " + totalPrice + "TL ");
     }
 }
